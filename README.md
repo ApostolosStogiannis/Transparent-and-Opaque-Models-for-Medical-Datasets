@@ -1,8 +1,8 @@
 In this Github Repository you can find the notebooks that i have created to evaluate SHAP and Sage with different metrics on medical data. Specifically, I used the UCI Heart Disease dataset, the UCI Parkinson's Telemonitoring dataset and PathMNIST from MedMNIST.
 
 
-In order to run the notebook for the UCI Heart Disease dataset, the notebook is named Tabular/Classification Dataset, you will need to use requirements_cl.txt.
+In order to run the notebook for the UCI Heart Disease dataset, the notebook is named Tabular_Classification Dataset, you will need to use requirements_cl.txt.
 
-For UCI Parkinson's, here there are two notebooks both named Tabular/Regression, one of them includes the 'age' feature and the other one does not, and you will need to use requirements_rg.txt.
+For UCI Parkinson's, here there are two notebooks both named Tabular_Regression Dataset, one of them includes the 'age' feature and the other one does not, and you will need to use requirements_rg.txt.
 
-For PathMNIST the notebook is named Image/Classification and you will need requirements_pm.txt and CNN_final.keras in order to load the CNN model.
+For PathMNIST the notebook is named Image_Classification Dataset and you will need requirements_pm.txt and CNN_final.keras in order to load the CNN model.
